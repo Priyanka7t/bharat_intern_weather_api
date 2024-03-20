@@ -105,3 +105,9 @@ body{
     margin-top: 10px;
     display: none;
 }
+
+@media (max-width: 500px) {
+    .card {
+        padding: 20px 5px;
+    }
+}
