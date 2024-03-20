@@ -110,4 +110,8 @@ body{
     .card {
         padding: 20px 5px;
     }
+    .search input {
+        width: 50%;
+        font-size: 15px;
+    }
 }
